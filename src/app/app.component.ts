@@ -9,6 +9,6 @@ export class AppComponent {
     { title: 'Home', url: '/home', icon: 'home' },
     { title: 'Menu', url: '/menu', icon: 'menu' },
   ];
-  public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
+  // public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
   constructor() {}
 }
