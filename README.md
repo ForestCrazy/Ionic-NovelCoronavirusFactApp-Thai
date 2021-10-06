@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-cd Ionic_Classroom_Learning
+cd Ionic-NovelCoronavirusFactApp-Thai
 npm i
 ionic serve
 ```
