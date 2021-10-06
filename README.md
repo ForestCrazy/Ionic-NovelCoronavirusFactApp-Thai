@@ -1,7 +1,7 @@
 ## Prerequisites
-> Node.JS >= 14.x
-> npm >= 7.x
-> ionic >= 5.4
+> Node.JS >= 14.x<br/>
+> npm >= 7.x<br/>
+> ionic >= 5.4<br/>
 
 ## Installation
 ```bash
